@@ -56,6 +56,7 @@ const SideBar = () => {
                         </li>
                     </ul>
                 </div>
+                
                 <div className='side-box'>
                     <div className='heading'>
                         <h6>Service</h6>
